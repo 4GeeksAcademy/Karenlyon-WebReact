@@ -1,0 +1,31 @@
+body {
+ background-color:white;
+}
+
+.navbar {
+    background-color : rgb(234, 146, 40)
+}
+
+.footer {
+    background-color: rgba(234, 147, 40, 0.568);
+}
+
+.img {
+    height: 170px;
+}
+
+.btn {
+    background-color: rgb(184, 236, 184);
+    border: 2.5px solid rgb(130, 229, 130);
+    
+}
+.btn:hover {
+    background-color: green;
+}
+.jumbotron {
+    background-color: bisque;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.lime { color:rgb(114, 205, 114);}
